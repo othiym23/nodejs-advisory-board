@@ -29,7 +29,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 ## Scope
 
 We expect all Node.js Technical Committee members and Node.js contributors,
-including paid and unpaid agents, administrators, and users, to abide by this
+including paid and unpaid agents and administrators, to abide by this
 Code of Conduct at all times in all Node.js community venues, online and in
 person, and in one-on-one communications pertaining to Node.js affairs.
 
@@ -116,7 +116,8 @@ Unacceptable behavior from any community member, including sponsors, employees
 of companies with representatives on the Technical Committee, customers, or
 others with decision-making authority, will not be tolerated.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Anyone asked by Project Administrators to stop unacceptable behavior is
+expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the Project
 administrators may take any action they deem appropriate, up to and including a
